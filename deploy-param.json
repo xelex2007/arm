@@ -3,10 +3,10 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
       "uniqueDnsName": {
-        "value": "GEN-UNIQUE-107"
+        "value": "GEN-UNIQUE-1077"
       },
       "uniqueDnsNameForWebApp": {
-        "value": "GEN-UNIQUE-107"
+        "value": "GEN-UNIQUE-1077"
       }
     }
 }
